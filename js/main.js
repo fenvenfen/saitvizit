@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	startSlider();
+	startSlider(); //start simple  slider
 });
 
 
